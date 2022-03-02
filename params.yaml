@@ -5,6 +5,6 @@ velocity: 0.5
 desired_distance: 1.
 max_speed: 4
 max_steering_angle: 0.34
-k_p: 0.5
-k_i: 0.5
-k_d: 0.5
+# k_p: 3
+k_i: 2
+k_d: 1
